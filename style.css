@@ -102,7 +102,7 @@ p{
 .sec-2-box{
     box-shadow: 0.5rem 0.5rem 1rem rgba(0, 0, 0, 0.1);
     padding:30px 24px;
-    width: 45%;
+    width: 30%;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -144,7 +144,7 @@ p{
 .sec-5-boxs{
  
     border: 2px solid rgb(0, 100, 221);
-    width: 45%;
+    width: 30%;
     height: 300px;
     border-radius: 8px;
     box-shadow: 0.5rem 0.5rem 1rem rgba(0, 0, 0, 0.1);
