@@ -138,7 +138,8 @@ p{
 }
 .section-5{
 
-    padding:40px 0px ;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 .sec-5-boxs{
  
@@ -231,6 +232,9 @@ margin-top: 10px;
 }
 @media only screen and (min-width:300px) and (max-width:550px)
 {
+    p{
+        font-size: 14px !important;
+    }
     .section-1 img{
         height: 300px;
     margin-top: 34px;
@@ -274,4 +278,16 @@ h2{
     .footer-2 {
     gap: 40px;
     }
+.section-3  img{
+    height: 30px;
+}
+.section-3 li div{
+    gap: 12px !important;
+}
+.section-4 li{
+    gap: 12px;
+}
+.section-4 li img{
+    height: 14px;
+}
 }
